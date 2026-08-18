@@ -1,6 +1,6 @@
 # SQE Library Management
 
-Project Description
+Project Description is given below
 SQE Library Management is a software project designed to manage library operations efficiently. The system will provide features for managing books and members, searching for books, and supporting software quality engineering practices.
 
 Main Features
